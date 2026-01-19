@@ -19,3 +19,15 @@ Cubit (Bloc)
 REST APIs (Dio)
 Firebase / Supabase (optional)
 Clean Architecture principles
+
+📊 Performance Optimizations
+Reduced widget rebuilds
+Lazy-loaded lists for large datasets
+Optimized image caching
+
+👨‍💻 Author
+Hiren Maniya
+Senior Flutter Developer (Remote)
+📧 hirenmaniya9824@gmail.com
+
+🔗 LinkedIn: [linkedin.com/in/hiren-maniya](https://www.linkedin.com/in/hiren-maniya-780451241/)
