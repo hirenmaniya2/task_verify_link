@@ -1,16 +1,20 @@
-# task_verify_link
+Flutter Property Management App (Clean Architecture)
+🚀 Overview
 
-A new Flutter project.
+A production-grade Flutter application demonstrating scalable architecture, state management (Cubit/BLoC) OR GetX, API integration, and performance optimization. Built with real-world patterns used in enterprise mobile apps.
 
-## Getting Started
+🧠 Key Features
 
-This project is a starting point for a Flutter application.
+Modular Clean Architecture (Presentation / Domain / Data)
+Cubit-based state management
+REST API integration with error handling
+Pagination & caching
+Responsive UI (mobile & tablet)
+Reusable UI components
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Tech Stack
+Flutter / Dart
+Cubit (Bloc)
+REST APIs (Dio)
+Firebase / Supabase (optional)
+Clean Architecture principles
