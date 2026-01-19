@@ -1,4 +1,5 @@
 Flutter Property Management App (Clean Architecture)
+
 🚀 Overview
 
 A production-grade Flutter application demonstrating scalable architecture, state management (Cubit/BLoC) OR GetX, API integration, and performance optimization. Built with real-world patterns used in enterprise mobile apps.
